@@ -8,4 +8,4 @@
 lucacasanova/lucacasanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/badges/shields?branch=master&label=Closed%20Issues&logo=GitHub&logoColor=ffffff&labelColor=282828&style=flat)]()
+[[GitHub Closed Issues](https://img.shields.io/github/issues-closed/badges/shields?branch=master&label=Closed%20Issues&logo=GitHub&logoColor=ffffff&labelColor=282828&style=flat)]()
