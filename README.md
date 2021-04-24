@@ -64,6 +64,6 @@ Banco de dados:
 
 
  ### Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/luca-casanova-5b10a6141)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5518997932408)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:lucacasanova@outlook.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/luca-casanova-5b10a6141)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5518997932408)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lucacasanova@outlook.com.br)
