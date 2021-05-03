@@ -39,17 +39,9 @@ Banco de dados:
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Hyper](https://img.shields.io/badge/-Hyper-000000?style=flat&logo=hyper&logoColor=white)
 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&&logo=react&logoColor=ffffff)
-![NodeJS](https://img.shields.io/badge/-Node.JS-339933?style=flat&&logo=Node.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&&logo=react&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
-![Redux & Saga](https://img.shields.io/badge/-Redux%20&%20Saga-764ABC?style=flat&&logo=redux)
-![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=000)
-![Styled-Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=000)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=fff)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=fff)
  
