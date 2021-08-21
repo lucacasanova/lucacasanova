@@ -10,7 +10,7 @@ Banco de dados:
 - SQLite.
 
 
-Um pouco sobre mim:
+# Um pouco sobre mim:
 Sou um desenvolvedor back-end, com mais de 2 anos de experiência em desenvolvimento WebService rest full.
 Trabalho com aplicações Laravel com um tráfego médio de 800 Mil integrações Mensais.
 Possuo sólidos conhecimentos em PHP, HTML5, Linux. Tenho interesse em escalabilidade de aplicações, infraestrutura, boas práticas em um projeto PHP e arquitetura limpa.
