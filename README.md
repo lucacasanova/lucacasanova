@@ -1,69 +1,64 @@
 # Luca Casanova
 
-### Backend Engineer · AI Agent Architect · Vibe Coder
+**Backend Engineer · AI Agent Architect**
 
-Backend, IA e infraestrutura — esse é o meu trabalho há mais de 8 anos. Aprendi a programar sozinho aos 16 de forma autodidata e fui construindo experiência na prática: de scripts simples até plataformas SaaS com arquiteturas multi-agente rodando em produção.
+**Resumo**
+Sou Desenvolvedor Backend Sênior com mais de 8 anos de experiência em sistemas complexos, integrações, automações, WordPress e infraestrutura de servidores. Trabalho com Inteligência Artificial aplicada, IA Conversacional, RAG e agentes inteligentes para criar soluções que geram impacto real na experiência do cliente e eficiência operacional.
 
-O que me diferencia: não uso IA como muleta. Construo sistemas onde ela é protagonista — MCP Servers próprios, flow engines visuais com 30+ tipos de nós, arquitetura multi-agente, RAG com busca vetorial e pipelines de raciocínio encadeado. E pratico Vibe Coding como método real de trabalho, não como buzzword.
-
----
-
-## 🚀 WaveAI — Plataforma SaaS de Atendimento com IA
-
-SaaS multi-tenant para gestão de atendimento via WhatsApp (Meta Cloud API). Não é chatbot fixo: são IA Agents executando fluxos de negócios complexos.
-
-| Camada | Stack |
-|--------|-------|
-| Backend | Laravel 12 + PHP 8.3 |
-| Frontend | Next.js 19 + React + TypeScript |
-| Banco | PostgreSQL (Supabase self-hosted) + Redis |
-| Infra | Docker, Traefik, Nginx |
-| IA | OpenAI, Anthropic Claude |
-
-O que tem por dentro:
-- **Flow Engine visual** com 30+ tipos de nós: router, guardrail, memória, handoff, loops.
-- **Arquitetura multi-agente:** dispatcher central roteia para sub-agentes corporativos (reservas, FAQ, onboarding, Vendas) via tools autônomas estruturadas.
-- **RAG via pgvector** para Q&A vetorial e histórico encadeado ilimitado.
+Aprendi a programar de forma autodidata aos 16 anos e evoluí de scripts simples para plataformas SaaS com arquitetura multi-agente em produção.
 
 ---
 
-## 🔄 Como uso IA de verdade — Vibe Coding & MCP
+## Projetos Principais
 
-Construí ferramentas personalizadas do zero para que a IA (Claude/Cursor/Copilot) entenda meus projetos e me ajude de forma cirúrgica:
+### WaveAI — Plataforma SaaS de Atendimento com IA
 
-### 🧩 MCP Servers em Produção
-* **`backend-devtools`**: Meu agente não precisa de mim para inspecionar banco de dados. Este servidor fornece +40 tools em runtime onde o próprio LLM entende contextos, altera fluxo SQL, gerencia conexões, acessa fila de RabbitMQ e testa prompts (antes de enviar).
-* **`frontend-devtools`**: Contextualizador para Next.js que expõe stores Zustand, i18n, e paths para o fluxo da UI ser refatorado via IA.
+Plataforma multi-tenant para gestão de atendimento via WhatsApp (Meta Cloud API). São IA Agents executando fluxos de negócios complexos, não apenas chatbots.
 
-### 🛡️ Automações Real-Time
-* **Triage:** Build quebrou ao efetuar um push? Meu agente rastreia erro no log CI/CD, levanta a diff corrompida e notifica num Slack/Wpp detalhando sugestões _antes_ de qualquer DEv notar.
-* **Reports:** IA autônoma em background cruza volume diário x faturamento da database e envia relatório formatado à diretoria.
+**Stack:**
 
----
+* Backend: Laravel 12 + PHP 8.3
+* Frontend: Next.js 19 + React + TypeScript
+* Banco: PostgreSQL (Supabase self-hosted) + Redis
+* Infraestrutura: Docker, Traefik, Nginx
+* IA: OpenAI, Anthropic Claude
 
-## 💼 Consultoria e Integrações (AE Digital)
+**Diferenciais Técnicos:**
 
-Desenvolvedor Backend & Consultor PJ lidando com clientes B2B. As integrações reais do dia a dia incluem ecossistemas complexos:
-
-- **E-commerce & ERP:** Microsserviços e Webhook triggers via Bling e Omie com update de estoque, rotas assíncronas.
-- **Seguros & Corporativo:** Mapeamento de apólices e sistemas robustos via APIs avançadas (ex: Porto Seguro).
-- **Marketing e CRMs:** Roteamento com RD Station, HubSpot, Web Scraping invisível de concorrentes com *Puppeteer Stealth* em MercadoLivre, Insta e LinkedIn.
-- **Infra e Gateways:** Operação direta de Nginx, PM2, Docker e Gateways de transações (Stripe, Pagar.me, etc) usando CI/CD puro e monitoramentos Netdata.
+* Flow Engine visual com 30+ tipos de nós: router, guardrail, memória, handoff, loops.
+* Arquitetura multi-agente: dispatcher central roteia para sub-agentes corporativos (reservas, FAQ, onboarding, vendas) via tools autônomas.
+* RAG via pgvector para Q&A vetorial e histórico encadeado ilimitado.
 
 ---
 
-<details>
-<summary>📱 <b>Hitórico de Produtos Secundários & Módulos</b> <i>(Clique para expandir)</i></summary>
-&nbsp;
+## MCP Servers & Automação
 
-- **Plataforma de Eventos Esportivos com IA:** Firebase + Next.js com gamificação corporativa, rankings live via Websockets, e MCP custom.
-- **Evolução de 5 Anos em WhatsApp:** Passei do `node-nlp` clássico até micro-libs de bypass `baileys` injetadas em ChatGPT, fechando agora o cerco em plataformas Enterprise (Meta WABA API Oficial).
-- **Link Tracker (Puppeteer):** Crawler Cron-Scheduled para varredura anti-stealth the APIs para disparar e-mails ao detectar caídas.
-</details>
+Ferramentas personalizadas para que a IA (Claude/Cursor/Copilot) atue de forma autônoma e precisa:
+
+* **MCP Servers em Produção**
+
+  * Backend-devtools: +40 tools para manipulação de banco, filas RabbitMQ, SQL e prompts.
+  * Frontend-devtools: contextualiza Next.js, Zustand, i18n e paths para refatoração via IA.
+
+* **Automações Real-Time**
+
+  * Triage: rastreio de erros CI/CD com notificações detalhadas antes que um dev note.
+  * Reports: cruzamento de volume diário x faturamento e geração de relatórios executivos automatizados.
 
 ---
 
-## 🌐 Tecnologias Atuais
+## Consultoria e Integrações (AE Digital)
+
+Desenvolvedor Backend & Consultor PJ em projetos B2B complexos:
+
+* E-commerce & ERP: microsserviços e Webhook triggers via Bling e Omie
+* Seguros & Corporativo: integração de apólices via APIs avançadas
+* Marketing & CRMs: RD Station, HubSpot, web scraping com Puppeteer Stealth
+* Infra & Gateways: Nginx, PM2, Docker, Stripe, Pagar.me, monitoramento Netdata e CI/CD
+
+---
+
+##  Tecnologias Atuais
 
 ![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
