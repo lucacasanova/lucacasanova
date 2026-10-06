@@ -52,4 +52,4 @@ Express + TypeScript, Next.js, Supabase (Auth/Realtime), Redis, MinIO/S3. Contro
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/luca-casanova-dev)
+[Currículo](https://app.notion.com/p/Curr-culo-Luca-Casanova-36785167934a8018bae9de844f74a810) · [LinkedIn](https://www.linkedin.com/in/luca-casanova-dev)
